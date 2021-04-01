@@ -1,2 +1,2 @@
 # Goober
-The world's first tutor dating app
+A new way to connect students and tutors
